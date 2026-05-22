@@ -6,5 +6,4 @@ www.ecosia.org##.meta-results > div > div
 ##.onboarding-card--visible.sidebar-card--variant-primary.card--border.card--as-a.card.sidebar__result.onboarding-card.sidebar-card
 ##.main-footer__content
 ##uid-413-popover-content
-##uid-391-popover-content
 ##.popover--side-right-bottom.popover.main-nav-popover.popover-sign-up-nudge
