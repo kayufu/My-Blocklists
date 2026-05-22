@@ -3,3 +3,4 @@ www.ecosia.org##.main-footer-visual__cards
 www.ecosia.org##.satisfaction-feedback
 www.ecosia.org##.modal__dialog
 www.ecosia.org##.meta-results > div > div
+##.onboarding-card--visible.sidebar-card--variant-primary.card--border.card--as-a.card.sidebar__result.onboarding-card.sidebar-card
