@@ -5,4 +5,4 @@ www.ecosia.org##.modal__dialog
 www.ecosia.org##.meta-results > div > div
 ##.onboarding-card--visible.sidebar-card--variant-primary.card--border.card--as-a.card.sidebar__result.onboarding-card.sidebar-card
 ##.main-footer__content
-##popover-sign-up-nudge main-nav-popover popover-sign-up-nudge popover popover--side-right-bottom
+##[data-test-id="main-nav-popover-sign-up-nudge"]
