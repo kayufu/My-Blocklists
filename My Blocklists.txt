@@ -1,4 +1,4 @@
-Title: My Blocklist
+# Title: My Blocklist
 
 duckduckgo.com##.O9Ipab51rBntYb0pwOQn.V_kJtMs7Zyzm6ruq8Z3u
 duckduckgo.com##.G3760sor1GklzZ22G0sw
