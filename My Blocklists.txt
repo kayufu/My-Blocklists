@@ -1,3 +1,5 @@
+Title: My Blocklist
+
 duckduckgo.com##.O9Ipab51rBntYb0pwOQn.V_kJtMs7Zyzm6ruq8Z3u
 duckduckgo.com##.G3760sor1GklzZ22G0sw
 duckduckgo.com##.fIgpqHfKgUmmk5lqmvL5._I0sotAoeGtAJzkzyutg.Yy4FVTLlXDKk7XaBX_nT
