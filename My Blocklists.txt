@@ -1,8 +1,3 @@
-! May 22, 2026 https://www.ecosia.org
-www.ecosia.org##.main-footer-visual__cards
-www.ecosia.org##.satisfaction-feedback
-www.ecosia.org##.modal__dialog
-www.ecosia.org##.meta-results > div > div
-##.onboarding-card--visible.sidebar-card--variant-primary.card--border.card--as-a.card.sidebar__result.onboarding-card.sidebar-card
-##.main-footer__content
-##[data-test-id="main-nav-popover-sign-up-nudge"]
+duckduckgo.com##.O9Ipab51rBntYb0pwOQn.V_kJtMs7Zyzm6ruq8Z3u
+duckduckgo.com##.G3760sor1GklzZ22G0sw
+duckduckgo.com##.fIgpqHfKgUmmk5lqmvL5._I0sotAoeGtAJzkzyutg.Yy4FVTLlXDKk7XaBX_nT
